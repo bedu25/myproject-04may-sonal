@@ -4,4 +4,3 @@ add changes for sign in button
 code for forget password
 Code for username 
 code for passowrd
-code for otp
